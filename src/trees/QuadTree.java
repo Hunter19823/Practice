@@ -1,7 +1,6 @@
 package trees;
 
 import java.awt.*;
-import java.util.ArrayList;
 
 public class QuadTree<TYPE extends Point> {
     public static void main(String[] args)
